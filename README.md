@@ -34,4 +34,10 @@ This iOS application demonstrates key skills in building functional and visually
 - **Local Storage**: local storage of added products for unsynced data.
 - **Version Control**: Public repository available on GitHub.
 
+## App Screenshots
+<p align="center">
+  <img src="SwipeAssignment/App Screenshots/Screen1_Product List.png" alt="Screen1 Product List" width="29.75%" />
+  <img src="SwipeAssignment/App Screenshots/Screen2_Add Product.png" alt="Screen2 Add Product" width="30%" />
+  <img src="SwipeAssignment/App Screenshots/Add Product Success.png" alt="Add Product Success" width="30%" />
+</p>
 
