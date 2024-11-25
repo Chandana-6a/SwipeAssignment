@@ -31,8 +31,7 @@ This iOS application demonstrates key skills in building functional and visually
 ## Technical Details
 - **Architecture**: MVVM (Model-View-ViewModel).
 - **Frameworks**: Swift, SwiftUI, CoreData.
-- **Local Storage**: local storage of added products for unsynced data.
-- **Version Control**: Public repository available on GitHub.
+- **Local Storage**: local storage of added products.
 
 ## App Screenshots
 <p align="center">
